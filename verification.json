@@ -1,0 +1,27 @@
+{
+  "passed": 14,
+  "checks": [
+    "create",
+    "read ID",
+    "retry",
+    "conflict",
+    "negative",
+    "currency",
+    "missing",
+    "unknown field",
+    "missing key",
+    "invalid UUID",
+    "not found",
+    "list size",
+    "async audit",
+    "risk decision"
+  ],
+  "run_date": "2026-10-13",
+  "junit_tests": 9,
+  "junit_failures": 0,
+  "java": "Temurin 21.0.12.1",
+  "spring_boot": "4.1.1",
+  "maven": "wrapper",
+  "docker_executed": false,
+  "cloud_deployed": false
+}
